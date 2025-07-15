@@ -80,10 +80,15 @@ O número de avaliações impacta as notas de forma marginal.
 
 ## Recomendações Estratégicas
 Com base nos resultados, recomenda-se:
+
 Não depender apenas de descontos para influenciar avaliações. A percepção de qualidade e valor é mais determinante.
+
 Melhorar o posicionamento e apresentação de produtos em categorias com menor avaliação média, como Electronics e Home&Kitchen.
+
 Estudar boas práticas das categorias mais bem avaliadas, como Computers&Accessories e OfficeProducts, para replicar estratégias bem-sucedidas.
+
 Personalizar ações por categoria, adotando campanhas específicas conforme o comportamento dos consumidores.
+
 Implementar testes A/B e monitoramento contínuo de avaliações por categoria, permitindo ajustes estratégicos baseados em dados reais.
 
 
