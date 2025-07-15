@@ -9,8 +9,11 @@ O objetivo secundário do projeto foi explorar o uso da IA para otimizar o proce
 ## Tecnologias utilizadas
 
 Google Colab
+
 Python
+
 IA Gemini
+
 Notion (Organização e documentação)
 
 ## Perguntas de Negócio
