@@ -6,6 +6,13 @@ O objetivo central foi preparar e explorar os dados para extrair insights releva
 
 O objetivo secundário do projeto foi explorar o uso da IA para otimizar o processo de análise.
 
+## Tecnologias utilizadas
+
+Google Colab
+Python
+IA Gemini
+Notion (Organização e documentação)
+
 ## Perguntas de Negócio
 
 1 – Quanto maior o desconto, melhor será a pontuação. 
