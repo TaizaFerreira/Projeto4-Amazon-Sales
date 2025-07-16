@@ -29,15 +29,21 @@ Notion (Organização e documentação)
 
 ## Metodologia e Ferramentas
 Este relatório documenta as principais etapas e achados do processo de análise de um dataset contendo informações sobre produtos e avaliações da plataforma Amazon.
+
 Carregamento dos datasets (amazon_product.csv, amazon_review.csv) e união via product_id.
+
 Limpeza de nulos e duplicados.
+
 Conversão de tipos e criação das variáveis:
+
 diferenca_preco (economia absoluta).
+
 categoria_principal (nível superior da hierarquia).
+
 Preparação do unificada_df para análise estatística e exploratória.
 
 ## Análise exploratória
-# Medidas de Tendência Central e Dispersão
+## Medidas de Tendência Central e Dispersão
 Há alta variabilidade em preços e contagem de avaliações, com distribuições assimétricas puxadas por produtos premium. Ratings possuem distribuição estável, sugerindo homogeneidade na percepção do consumidor.
 
 ## Distribuição de Produtos por Categoria
@@ -63,7 +69,7 @@ Confirmada (correlação forte).
 O preço real impacta o valor absoluto do desconto, mas não influencia diretamente a avaliação do cliente, reforçando que estratégias de desconto precisam ser analisadas em conjunto com percepção de valor e categoria do produto.
 
 ## Análise de Risco Relativo por Categoria
-# Comparação
+## Comparação
 Electronics vs Home&Kitchen
 RR 1,09
 Significância p=0,0427
